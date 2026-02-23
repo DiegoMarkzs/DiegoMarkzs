@@ -15,8 +15,6 @@
 
   <p>
     Sou um profissional em formação, focado em construir soluções de software eficientes e modernas.<br>
-    Atualmente, aplico meus conhecimentos no desenvolvimento do <strong>Comanda Digital</strong>, integrando<br>
-    experiência em front-end e back-end com as melhores práticas e arquiteturas do mercado.
   </p>
 
   <br><br>
