@@ -14,7 +14,9 @@
   <br><br>
 
   <p>
-    Sou um profissional em formação, focado em construir soluções de software eficientes e modernas.<br>Minha trajetória acadêmica e projetos práticos me proporcionaram experiência tanto no desenvolvimento<br>front-end quanto no back-end, sempre buscando aplicar as melhores práticas do mercado.
+    Sou um profissional em formação, focado em construir soluções de software eficientes e modernas.<br>
+    Atualmente, aplico meus conhecimentos no desenvolvimento do <strong>Comanda Digital</strong>, integrando<br>
+    experiência em front-end e back-end com as melhores práticas e arquiteturas do mercado.
   </p>
 
   <br><br>
@@ -50,24 +52,11 @@
   <br>
 
   <div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=DiegoMarkzs&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <a href="https://github.com/DiegoMarkzs">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoMarkzs&theme=dracula&hide_border=true&title_color=50FA7B&locale=pt_BR" alt="GitHub Streak" />
     </a>
   </div>
-
-  <br>
-
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoMarkzs&show_icons=true&theme=dracula&hide_border=true&title_color=50FA7B&icon_color=BD93F9" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoMarkzs&theme=dracula&hide_border=true&title_color=50FA7B" alt="GitHub Streak" />
-  </div>
   
-  <br>
-
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMarkzs&layout=compact&langs_count=6&theme=dracula&hide_border=true&title_color=50FA7B" alt="Top Languages" />
-  </div>
-
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Separator" width="100%">
